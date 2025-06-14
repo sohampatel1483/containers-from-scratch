@@ -179,4 +179,4 @@ sudo ./conductor.sh stop eg
 
 ---
 
-This project was created as part of the course **Virtualization and Cloud Computing (CS695)** at IIT Bombay, taught by Prof. Purushottam Kulkarni.
+This project was created as part of the course **Virtualization and Cloud Computing (CS695)** at IIT Bombay, taught by Prof. Purushottam Kulkarni (Spring 2025).
