@@ -1,9 +1,9 @@
 #!/bin/bash
 #
-# CS695 Conductor that manages containers 
-# Author: <your-name>
+# Conductor that manages containers 
+# Author: Soham Patel
 #
-echo -e "\e[1;32mCS695 Conductor that manages containers\e[0m"
+echo -e "\e[1;32m Conductor that manages containers\e[0m"
 
 # If not root then exit
 [ "$EUID" -ne "0" ] && echo "This script needs root permissions" && exit 1
